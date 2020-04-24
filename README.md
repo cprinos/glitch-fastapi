@@ -1,5 +1,6 @@
-# Python 3 FastAPI Project
+# Python3 FastAPI
 
-see [FastAPI](https://fastapi.tiangolo.com) for more information
+This project shows how to setup an easy Python REST API server
+built on [FastAPI](https://fastapi.tiangolo.com)
 
 This example is set up to run behind [Uvicorn](https://www.uvicorn.org)

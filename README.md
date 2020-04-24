@@ -1,4 +1,4 @@
-# Python3 FastAPI Project
+# Python 3 FastAPI Project
 
 see [FastAPI](https://fastapi.tiangolo.com) for more information
 
